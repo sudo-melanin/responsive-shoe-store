@@ -4,7 +4,7 @@ A responsive cross-platform e-commerce user interface built with Flutter. This p
 
 ## Demonstration
 
-[]
+[https://github.com/user-attachments/assets/9d41ebfa-910c-4a1a-ba90-8e9a1938f3de]
 
 ## Architecture
 
